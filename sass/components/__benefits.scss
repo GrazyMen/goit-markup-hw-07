@@ -22,7 +22,14 @@
 .benefits__title .benefits__svg {
     color: var(--title-text-color);
 }
-
+.benefits__title{
+    font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+}
 .doing__list .benefits__title {
     color: var(--title-text-color);
     font-weight: 700;
